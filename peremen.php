@@ -1,5 +1,4 @@
 <?php
-
 function mommyCheck($tempYesterday, $tempTudey, $tempTomorrow, $isRain, $aniPhrase ){
     $count=0;
     if(stripos($aniPhrase,'холодно' )!== false){
