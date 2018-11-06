@@ -45,6 +45,6 @@ function goWithRestrictions($tempYesterday, $tempTudey, $tempTomorrow, $isRain, 
 
 mommyCheck(10, 9, 6, true, 'заморозки, замерзла');
 
-
+echo ' Вот и все.';
 
 ?>
