@@ -45,7 +45,7 @@ else {
 ?>
 <html>
 <body>
-<form method="post" acttion="#">
+<form method="post" action="#">
     <input type="text" name="name" placeholder="enter name" >
     <input type="text" name="surname" placeholder="enter surname" >
     <input type="text" name="age" placeholder="enter age" >
